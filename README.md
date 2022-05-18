@@ -7,4 +7,8 @@
 * 'git status'
 
 * 'git add .'
-* 'git commit -m "message"' 
+* 'git commit -m "message"'
+
+### Information Commands
+* 'git status'
+* 'git log'
