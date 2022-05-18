@@ -14,4 +14,5 @@
 * 'git log'
 * 'git log --oneline'
 
-history
+### Branching commands
+* 'git branch'
