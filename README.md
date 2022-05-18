@@ -12,3 +12,6 @@
 ### Information Commands
 * 'git status'
 * 'git log'
+* 'git log --oneline'
+
+history
