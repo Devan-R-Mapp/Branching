@@ -1,6 +1,5 @@
 ## Git Command Cheat Sheet
-
-
+Includes Basic and Information commands.
 ### Basic Commands
 
 * 'git init'
